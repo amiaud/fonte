@@ -3,7 +3,7 @@
 font-family: 'Gotham Book';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Book'), url('GothamBook.woff') format('woff');
+src: local('Gotham Book'), url('https://amiaud.github.io/fonte/GothamBook.woff') format('woff');
 }
 
 
@@ -11,7 +11,7 @@ src: local('Gotham Book'), url('GothamBook.woff') format('woff');
 font-family: 'Gotham Book Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Book Italic'), url('GothamBookItalic.woff') format('woff');
+src: local('Gotham Book Italic'), url('https://amiaud.github.io/fonte/GothamBookItalic.woff') format('woff');
 }
 
 
@@ -19,7 +19,7 @@ src: local('Gotham Book Italic'), url('GothamBookItalic.woff') format('woff');
 font-family: 'Gotham Light';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Light'), url('GothamLight.woff') format('woff');
+src: local('Gotham Light'), url('https://amiaud.github.io/fonte/GothamLight.woff') format('woff');
 }
 
 
@@ -27,7 +27,7 @@ src: local('Gotham Light'), url('GothamLight.woff') format('woff');
 font-family: 'Gotham Light Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Light Italic'), url('GothamLightItalic.woff') format('woff');
+src: local('Gotham Light Italic'), url('https://amiaud.github.io/fonte/GothamLightItalic.woff') format('woff');
 }
 
 
@@ -35,7 +35,7 @@ src: local('Gotham Light Italic'), url('GothamLightItalic.woff') format('woff');
 font-family: 'Gotham Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Medium'), url('GothamMedium.woff') format('woff');
+src: local('Gotham Medium'), url('https://amiaud.github.io/fonte/GothamMedium.woff') format('woff');
 }
 
 
@@ -43,7 +43,7 @@ src: local('Gotham Medium'), url('GothamMedium.woff') format('woff');
 font-family: 'Gotham Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Medium'), url('GothamMedium_1.woff') format('woff');
+src: local('Gotham Medium'), url('https://amiaud.github.io/fonte/GothamMedium_1.woff') format('woff');
 }
 
 
@@ -51,7 +51,7 @@ src: local('Gotham Medium'), url('GothamMedium_1.woff') format('woff');
 font-family: 'Gotham Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Medium'), url('GothamMediumItalic.woff') format('woff');
+src: local('Gotham Medium'), url('https://amiaud.github.io/fonte/GothamMediumItalic.woff') format('woff');
 }
 
 
@@ -59,7 +59,7 @@ src: local('Gotham Medium'), url('GothamMediumItalic.woff') format('woff');
 font-family: 'Gotham Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Bold'), url('GothamBold.woff') format('woff');
+src: local('Gotham Bold'), url('https://amiaud.github.io/fonte/GothamBold.woff') format('woff');
 }
 
 
@@ -67,7 +67,7 @@ src: local('Gotham Bold'), url('GothamBold.woff') format('woff');
 font-family: 'Gotham Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Bold'), url('Gotham-Bold.woff') format('woff');
+src: local('Gotham Bold'), url('https://amiaud.github.io/fonte/Gotham-Bold.woff') format('woff');
 }
 
 
@@ -75,7 +75,7 @@ src: local('Gotham Bold'), url('Gotham-Bold.woff') format('woff');
 font-family: 'Gotham Bold Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Bold Italic'), url('GothamBoldItalic.woff') format('woff');
+src: local('Gotham Bold Italic'), url('https://amiaud.github.io/fonte/GothamBoldItalic.woff') format('woff');
 }
 
 
@@ -83,7 +83,7 @@ src: local('Gotham Bold Italic'), url('GothamBoldItalic.woff') format('woff');
 font-family: 'Gotham Black Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Black Regular'), url('Gotham-Black.woff') format('woff');
+src: local('Gotham Black Regular'), url('https://amiaud.github.io/fonte/Gotham-Black.woff') format('woff');
 }
 
 
@@ -91,7 +91,7 @@ src: local('Gotham Black Regular'), url('Gotham-Black.woff') format('woff');
 font-family: 'Gotham Light Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Light Regular'), url('Gotham-Light.woff') format('woff');
+src: local('Gotham Light Regular'), url('https://amiaud.github.io/fonte/Gotham-Light.woff') format('woff');
 }
 
 
@@ -99,7 +99,7 @@ src: local('Gotham Light Regular'), url('Gotham-Light.woff') format('woff');
 font-family: 'Gotham Thin Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Thin Regular'), url('Gotham-Thin.woff') format('woff');
+src: local('Gotham Thin Regular'), url('https://amiaud.github.io/fonte/Gotham-Thin.woff') format('woff');
 }
 
 
@@ -107,7 +107,7 @@ src: local('Gotham Thin Regular'), url('Gotham-Thin.woff') format('woff');
 font-family: 'Gotham XLight Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham XLight Regular'), url('Gotham-XLight.woff') format('woff');
+src: local('Gotham XLight Regular'), url('https://amiaud.github.io/fonte/Gotham-XLight.woff') format('woff');
 }
 
 
@@ -115,7 +115,7 @@ src: local('Gotham XLight Regular'), url('Gotham-XLight.woff') format('woff');
 font-family: 'Gotham Book Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Book Italic'), url('Gotham-BookItalic.woff') format('woff');
+src: local('Gotham Book Italic'), url('https://amiaud.github.io/fonte/Gotham-BookItalic.woff') format('woff');
 }
 
 
@@ -123,7 +123,7 @@ src: local('Gotham Book Italic'), url('Gotham-BookItalic.woff') format('woff');
 font-family: 'Gotham Thin Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Thin Italic'), url('Gotham-ThinItalic.woff') format('woff');
+src: local('Gotham Thin Italic'), url('https://amiaud.github.io/fonte/Gotham-ThinItalic.woff') format('woff');
 }
 
 
@@ -131,7 +131,7 @@ src: local('Gotham Thin Italic'), url('Gotham-ThinItalic.woff') format('woff');
 font-family: 'Gotham Ultra Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham Ultra Italic'), url('Gotham-UltraItalic.woff') format('woff');
+src: local('Gotham Ultra Italic'), url('https://amiaud.github.io/fonte/Gotham-UltraItalic.woff') format('woff');
 }
 
 
@@ -139,4 +139,4 @@ src: local('Gotham Ultra Italic'), url('Gotham-UltraItalic.woff') format('woff')
 font-family: 'Gotham XLight Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Gotham XLight Italic'), url('Gotham-XLightItalic.woff') format('woff');
+src: local('Gotham XLight Italic'), url('https://amiaud.github.io/fonte/Gotham-XLightItalic.woff') format('woff');
