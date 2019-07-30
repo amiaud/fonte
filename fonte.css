@@ -1,8 +1,5 @@
 
 @font-face {
-font-family: 'Gotham';
-font-style: normal;
-font-weight: normal;
-src: local('Gotham Book'), url('https://amiaud.github.io/fonte/GothamHTF-Black.otf') format('otf');
+  font-family: gotham;
+  src : url('https://amiaud.github.io/fonte/GothamHTF-Black.otf');
 }
-
